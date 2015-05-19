@@ -10,13 +10,17 @@ setup(
     author_email='dipcenter@gmail.com',
     description='Prime number calculation toolkit',
     classifiers=[
-        'Development Status :: 1 - Alpha',
+        'Topic :: Scientific/Engineering',
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Build Tools',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.6',
-        'Programming Language :: Python :: 2.7'
+        'Programming Language :: Python :: 2.7',
+        'Operating System :: Microsoft :: Windows',
+        'Operating System :: Microsoft :: Windows :: Windows 7',
+        'Operating System :: POSIX :: Linux',
     ],
     keywords='prime'
 )
