@@ -22,5 +22,5 @@ setup(
         'Operating System :: Microsoft :: Windows :: Windows 7',
         'Operating System :: POSIX :: Linux',
     ],
-    keywords='prime'
+    keywords=['prime', 'primes']
 )
